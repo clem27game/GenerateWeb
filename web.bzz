@@ -1,0 +1,5 @@
+# charger le package web
+bzz PACKAGE js -> GenerateWeb.js
+
+# créer une page web
+pollen -> "pink" "Baccalauréat" "ceci est un message de félicitations !" "La créatrice du langage de programmation BzzBee : Clémence, a eut son bac avec succes!" : miel
