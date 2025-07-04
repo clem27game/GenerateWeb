@@ -34,4 +34,10 @@ Le package GenerateWeb générera la page html ``bzzbee.html`` (normalement )
 
 avec vos paramètres personnalisés et vous pourez la télécharger, la modifier et l'utiliser !
 
+! Vous devez avoir un environnement avec node.js pour pouvoir utiliser GenerateWeb pour BzzBee 
+
+- 🐙 Votre fichier html sera générée dans notre Dossier GenerateWeb,
+  
+- vous n'avez plus qu'à ouvrir le dossier et télécharger votre fichier
+  
 **🧶🍥💞 Bon codage!**
